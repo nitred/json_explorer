@@ -11,7 +11,7 @@ json_explorer.explore_file("/home/user/json_explorer/test.json")
 # The exploration will be printed to the console.
 ```
 
-### Explore JSON object
+### Explore JSON string
 ```python
 import json_explorer
 
@@ -58,5 +58,5 @@ LIST
 ```
 git clone https://github.com/nitred/json_explorer.git
 cd json_explorer
-pytho setup.py install
+python setup.py install
 ```
